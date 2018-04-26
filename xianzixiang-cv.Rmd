@@ -1,0 +1,102 @@
+---
+title: "CV"
+author: "xianzixiang"
+email: zixiang_xian@qq.com
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Desktop/svm-r-markdown-templates/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: Senior Software Engineer
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+phone: "+86-18825620682"
+address: "No.1 NingXi Road · Zhuhai City · Guangdong Province, P.R.China"
+updated: no
+urlcolor: blue
+github: iamfaith
+---
+
+
+# Employment
+
+##09/2016-*present* Senior Software Engineer \hfill Kingsoft Office(WPS Office)
+
+Research and develop the Web-Online-Office(WOW) project(site:*drive.wps.cn*) which can convert office documents into various formats such as images, web html or PDF etc.Included adaptive and compatible frontend, high concurrent and performance backend.
+
+##07/2014-08/2016 Software Engineer \hfill Industrial and Commercial Bank of China Software Development Center(ICBCSDC)
+
+As a chief engineer, research and development of overseas fund settlement message transmission system
+
+##07/2012-09/2012 Intern Software Engineer \hfill Sunplus Technology Beijing Sunnorth Electronic Technology Co., Ltd
+
+Was responsible for the research and development of transparent transmission module based on the coolsand software platform
+
+
+# Education
+
+09/2010-06/2014 \hfill 	Tianjin University of Finance & Economics (TUFE)
+
+*Ranking*: Top 5 \hfill B.A. Software Engineering 
+
+# Publications
+
+ *XIAN Zixiang* and HUA Bin *"Ultrasonic Detection System of Engineering Truck Loading Capacity Based on STC12C5A60S2 Microcontroller"*   
+
+Paper ID: *11107* \hfill Modern Computer, *2013*
+
+# Projects
+
+##09/2016-05/2018 \hfill Web-Online-Office(WOW)
+
+1.Designed the frontend architecture for WOW that use for previewing DOC, PPT, EXCEL online.
+
+2.Focus on developing PPT Extracting Module extracting PPT documents into json file.
+
+3.Develop the flexible and extendable backend server of WOW which is in used now.It is provided high concurrent access and efficient service but with low-memory usage.
+
+##11/2014-10/2015 \hfill ICBC Peru Local Clearing System
+
+1.The local clearing system, involving two currencies in Sol and US Dollars, mainly consists of customer clearing, bank transfer, peer lending, overnight deposits, and foreign exchange transactions.
+
+2.Performs algorithm encryption independently involving RSA and 3DES
+
+##07/2012-2013/06 \hfill University Projects
+
+1.the Telephone Marketing System based on Delphi
+
+2.Truck loading detection system used to detect whether the truck is filled up or not. 
+
+#Technical Skills
+
+5-year experience in Java programming and deep understanding of JDK
+
+Reverse Engineering on Android APK
+
+Linux, C/C++, Python
+
+SSH, Spring MVC framework
+
+Enterprise Middleware: IBM websphere, IBM WebSphere MQ
+
+#Honors and Awards
+
+02/2016 \hfill Won the "Best New Artist" prize of ICBCSDC
+
+12/2015 \hfill Won the "Monthly Best Award" prize of ICBCSDC
+
+11/2012 	\hfill	Won the Second Scholarship of TUFE
+
+09/2012	\hfill	The project Intelligent Truck Loading Detection and Transmission System I apply for was approved to be the national Key Project of Innovative Business Training Plan Project for National College Students in 2012
+
+05/2012	\hfill Got the First Place in the Fourth TUFE Scientific Technology Month Computer Program-designing Competitions Advanced Group
+
+03/2012	\hfill	Won the First Place in China Undergraduate Mathematical Contest in Modeling
+
+11/2011  \hfill Got the Second Scholarship of TUFE
